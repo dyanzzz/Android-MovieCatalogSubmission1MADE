@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="dummy_photos">Dummy Photos</string>
+    <string name="dummy_value">Dummy Value</string>
+    <string name="detail">Detail</string>
+    <string name="order_ticket">Order Ticket</string>
+    <string name="director">Director</string>
+    <string name="my_name">Dian Tri Budianto</string>
+    <string name="my_email">dian.trib@gmail.com</string>
+    <string name="featured_crew">Featured Crew</string>
+</resources>
